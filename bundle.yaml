@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "vnlupu-casc-dev-controller"
+description: "CloudBees CI configuration bundle for the vnlupu-casc dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/vnlupu-casc/dev-controller"
+parent: "base"
